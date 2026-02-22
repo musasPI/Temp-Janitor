@@ -1,9 +1,9 @@
 ;----------------------------------------------------------------------------------------------------|
-; Nome Programa: Janitor Temp									 			    				 	                                   |
-; Autor:Pinheiro																             		                                     |
-; Versão: 0.5																			  			                                           |
-; Descrição Breve: Deleta arquivos na pasta %temp% e na pasta c:\windows\temp				 	 	             |
-; DLL's Usadas: User32.dll; Shell32.dll; Kernel32.dll;												                       |
+; Nome Programa: Janitor Temp									 			    				 	 |
+; Autor: Pinheiro																             		 |
+; Versão: 0.5																			  			 |
+; Descrição Breve: Deleta arquivos na pasta %temp% e na pasta c:\windows\temp				 	 	 |
+; DLL's Usadas: User32.dll; Shell32.dll; Kernel32.dll;												 |
 ;----------------------------------------------------------------------------------------------------|
   
   extern GetUserDefaultUILanguage
